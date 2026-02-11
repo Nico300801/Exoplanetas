@@ -1,6 +1,6 @@
 # Análisis de Exoplanetas
 
-Este repositorio contiene un proyecto para el **análisis y estudio de exoplanetas**, basado en un conjunto de datos y visualizaciones mediante un **cuaderno Jupyter Notebook** y un informe en PDF.
+Este repositorio contiene un ejercicio práctico para el **análisis y estudio de exoplanetas**, basado en un conjunto de datos y visualizaciones mediante un **cuaderno Jupyter Notebook** y un informe en PDF.
 
 ## Contenido
 
